@@ -10,3 +10,5 @@ Meu nome é Lucas Melo
 
 ### Você pode entrar em contato comigo 📫
 0000109830116xsp@al.educacao.sp.gov.br
+
+> Escrito por Lucas Melo
